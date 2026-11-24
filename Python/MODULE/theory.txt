@@ -1,0 +1,37 @@
+Module is a collection of function , classes , variable and many more
+
+using of module we can import any where in folder
+
+module which is provide reusability
+
+using of module we can reduce our code
+
+---------------------------------------------------------
+
+there are three types of module::
+
+1)built in module::
+     which is predefined by python 
+     which we can use as per our need
+
+     e.g.random
+         math
+         os
+         etc...
+
+2)user defined module::
+       
+
+3)third party module::
+
+
+
+-------------------------------------------------------------
+
+package:  is a collection of module files
+
+        using of package we can access module 
+        anywhere in project
+
+         in python using of __init__.python
+         we can create any black folder as a package
